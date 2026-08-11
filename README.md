@@ -19,8 +19,6 @@ maintenance-launcher/
 │   └── index.html     # 入口文件（必须存在）
 └── README.md
 
-```
-
 ---
 
 ## 🚀 快速开始
