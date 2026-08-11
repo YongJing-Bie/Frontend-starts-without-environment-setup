@@ -5,19 +5,18 @@
 该项目的微服务器 *websitino.exe* 由 *dub build -b release* 构建，未经修改，原链接为：
 <https://github.com/trikko/websitino/releases/tag/v0.2.9>
 
-```
 ---
 
 ## 📁 文件结构
 
 ```
-
 maintenance-launcher/
 ├── websitino.exe      # 轻量级 Web 服务器
 ├── start.bat          # 一键启动脚本（自动端口，默认12138，占用+1）
 ├── dist/              # 📌 把你打包好的网页文件放在这里
 │   └── index.html     # 入口文件（必须存在）
 └── README.md
+```
 
 ---
 
@@ -39,5 +38,3 @@ maintenance-launcher/
 ## 📜 许可证
 
 本项目仅供学习与内部使用。`websitino` 版权归其原作者所有。
-```
-
