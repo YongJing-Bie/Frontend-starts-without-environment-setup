@@ -11,6 +11,7 @@
 
 ```
 maintenance-launcher/
+├── msvcr120.dll
 ├── websitino.exe      # 轻量级 Web 服务器
 ├── start.bat          # 一键启动脚本（自动端口，默认12138，占用+1）
 ├── dist/              # 📌 把你打包好的网页文件放在这里
